@@ -9,3 +9,4 @@ print('Hello git')
 
 apple
 pineapple
+strawberry
